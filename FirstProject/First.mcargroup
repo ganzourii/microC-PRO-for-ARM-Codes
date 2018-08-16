@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=E:\mikroProgkit-STM32F407VG\FirstProject\LED.mcpar
+Project1=..\First.mcpar
+[ActiveProject]
+Index=1
